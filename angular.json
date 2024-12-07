@@ -52,7 +52,8 @@
 							"src/assets/js/vanilla-tilt.min.js"
 						],
 						"serviceWorker": true,
-						"ngswConfigPath": "ngsw-config.json"
+						"ngswConfigPath": "ngsw-config.json",
+						"baseHref": "/"
 					},
 					"configurations": {
 						"production": {
